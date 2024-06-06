@@ -1,4 +1,4 @@
-# C++ Array Data Structure
+# Array in C++
 
 ### This repository is a one-stop shop for learning and practicing C++ array concepts! It provides clear explanations, code examples, and a curated list of LeetCode and GeeksforGeeks problems for all skill levels (easy, medium, hard).
 
